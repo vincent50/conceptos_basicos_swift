@@ -1,4 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='5.0' target-platform='ios' buildActiveScheme='true' executeOnSourceChanges='false' importAppTypes='true'>
-    <timeline fileName='timeline.xctimeline'/>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='02_var_let'/>
+        <page name='HelloWorld'/>
+        <page name='TypeAnnotation'/>
+        <page name='Optional_Nil'/>
+        <page name='Try_Catch'/>
+        <page name='Operations'/>
+        <page name='Strings'/>
+        <page name='Colecciones'/>
+        <page name='Control_Flow'/>
+        <page name='Functions'/>
+        <page name='Closures'/>
+        <page name='Enumeradores'/>
+        <page name='Struct_class'/>
+        <page name='Properties'/>
+        <page name='Method'/>
+        <page name='Subscript'/>
+        <page name='inheritance'/>
+        <page name='Inits'/>
+        <page name='Optional_Chaning'/>
+    </pages>
 </playground>
